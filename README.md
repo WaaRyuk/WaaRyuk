@@ -1,6 +1,6 @@
 <!-- Encabezado con saludo -->
 
-<h1 align="center">👋 Hola, soy <strong>Tu Nombre</strong></h1>
+<h1 align="center">👋 Hola, soy <strong>Jonathan Fernandez</strong></h1>
 <h3 align="center">Científico/a de Datos | Machine Learning | Analítica | Python Lover 🐍</h3>
 
 <p align="center">
